@@ -1,0 +1,5 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore images or files you don't want to upload yet
+images/*.psd
